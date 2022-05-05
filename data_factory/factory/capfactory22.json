@@ -1,0 +1,9 @@
+{
+	"name": "capfactory22",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "97217cd0-c18c-49eb-a29b-91adb599d45a",
+		"tenantId": "d51d7a76-142c-4c45-9d41-c73ad5724b90"
+	}
+}
